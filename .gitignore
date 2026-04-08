@@ -1,0 +1,9 @@
+/target
+*.db
+*.db-shm
+*.db-wal
+.env
+deploy.py
+*.bak
+static/avatars/*
+!static/avatars/.gitkeep

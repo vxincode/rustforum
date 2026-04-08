@@ -1,0 +1,2 @@
+-- is_essence column is now added safely via Rust migration code (db.rs)
+-- using PRAGMA table_info check before ALTER TABLE
