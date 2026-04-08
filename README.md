@@ -2,6 +2,8 @@
 
 A modern, high-performance forum system built with **Rust + Axum + SQLite**. Server-side rendered, single binary deployment, zero external service dependencies.
 
+English | [中文](README_CN.md)
+
 ## Features
 
 - **User System** — Registration, login, profiles, avatar upload, daily check-in, credits
